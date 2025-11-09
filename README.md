@@ -56,20 +56,21 @@ Developed collaboratively by high school students and guided by TARRL (Tulunadu 
 
 ## 🪛 Pin Configuration
 
-| Pin | Connection | Description |
-|------|-------------|-------------|
-| D2 | IR Sensor (West) | Vehicle detection |
-| D3 | IR Sensor (East) | Vehicle detection |
-| D6 | Red (East Signal) | LED / Light |
-| D7 | Yellow (East Signal) | LED / Light |
-| D8 | Green (East Signal) | LED / Light |
-| D9 | Red (West Signal) | LED / Light |
-| D10 | Yellow (West Signal) | LED / Light |
-| D11 | Green (West Signal) | LED / Light |
-| A4 | TM1637 Display DIO | Data pin |
-| A5 | TM1637 Display CLK | Clock pin |
-Note: Provide VCC 5V for TM1637 and Common GND for all the connection ie led to Digital pins and GND to ground
---
+| SL No | Pin  | Connection             | Description                              |
+|-------|------|------------------------|------------------------------------------|
+| 1     | D2   | IR Sensor (West)       | Vehicle detection                        |
+| 2     | D3   | IR Sensor (East)       | Vehicle detection                        |
+| 3     | D6   | Red (East Signal)      | LED / Light                              |
+| 4     | D7   | Yellow (East Signal)   | LED / Light                              |
+| 5     | D8   | Green (East Signal)    | LED / Light                              |
+| 6     | D9   | Red (West Signal)      | LED / Light                              |
+| 7     | D10  | Yellow (West Signal)   | LED / Light                              |
+| 8     | D11  | Green (West Signal)    | LED / Light                              |
+| 9     | A4   | TM1637 Display DIO     | Data pin                                 |
+| 10    | A5   | TM1637 Display CLK     | Clock pin                                |
+
+> ⚙️ **Note:**  
+> Provide **+5V VCC** for TM1637 Display and ensure a **common GND** for all connections (LEDs, IR sensors, and Arduino).
 
 ## 🧠 Libraries Required
 - `TM1637Display.h` — for controlling the 4-digit display  
