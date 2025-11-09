@@ -13,16 +13,17 @@ Developed collaboratively by high school students and guided by TARRL (Tulunadu 
 ---
 
 ## 🧩 Components Used
-|SL No| Component | Quantity | Description |
-|-----|------------|-----------|-------------|
-    | IR Sensor | 2 pcs | Vehicle detection (East & West) |
-    | Arduino UNO | 1 pcs | Main microcontroller |
-    | Breadboard | 1 pcs | Circuit connections |
-    | Red LED | 2 pcs | Signal light |
-    | Yellow LED | 2 pcs | Signal light |
-    | Green LED | 2 pcs | Signal light |
-    | **OR** Traffic Light Module | 1 pcs | Prebuilt 3-color signal |
-    | TM1637 Display | 1 pcs | Countdown and status display |
+
+| SL No | Component           | Quantity | Description                              |
+|-------|---------------------|-----------|------------------------------------------|
+| 1     | IR Sensor           | 2 pcs     | Vehicle detection (East & West)          |
+| 2     | Arduino UNO         | 1 pcs     | Main microcontroller                     |
+| 3     | Breadboard          | 1 pcs     | Circuit connections                      |
+| 4     | Red LED             | 2 pcs     | Signal light                             |
+| 5     | Yellow LED          | 2 pcs     | Signal light                             |
+| 6     | Green LED           | 2 pcs     | Signal light                             |
+| 7     | **OR** Traffic Light Module | 1 pcs | Prebuilt 3-color signal                  |
+| 8     | TM1637 Display      | 1 pcs     | Countdown and status display             |
 
 ---
 
