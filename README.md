@@ -54,7 +54,7 @@ Developed collaboratively by high school students and guided by TARRL (Tulunadu 
 
 ---
 
-## Pin Configuration
+## ⚙️ Pin Configuration
 
 | SL No | Pin  | Connection             | Description                              |
 |-------|------|------------------------|------------------------------------------|
@@ -78,7 +78,7 @@ Developed collaboratively by high school students and guided by TARRL (Tulunadu 
 
 ---
 
-## 🪄 How It Works
+## ⚙️ How It Works
 This project demonstrates the use of **basic automation and sensor logic** to manage real-world traffic flow using **Arduino Uno**.  
 It can be extended using:
 - Ultrasonic or camera-based detection  
