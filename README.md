@@ -54,7 +54,7 @@ Developed collaboratively by high school students and guided by TARRL (Tulunadu 
 
 ---
 
-## 🪛 Pin Configuration
+## Pin Configuration
 
 | SL No | Pin  | Connection             | Description                              |
 |-------|------|------------------------|------------------------------------------|
