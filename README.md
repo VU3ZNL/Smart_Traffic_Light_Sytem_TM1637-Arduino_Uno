@@ -8,7 +8,7 @@ Developed collaboratively by high school students and guided by TARRL (Tulunadu 
 
 👩‍🔬 Developed By
 - **Shravana & Team — Sri Ramakrishna High School, Puttur — R&D**  
-- **Mr. Vaibhav V K Naik** — **President & E&TW Intelligence & Hon Trustee, TARRL , Department of Electronics ,Science Forum President, St. Philomena PU College, Puttur.**
+- **Mr. Vaibhav V K Naik** — **President & E&TW Intelligence & Hon Trustee, TARRL , Department of Electronics ,Science Forum President, St. Philomena PU College, Founder & Director R&D ZXT Electronics , Puttur.**
 
 ---
 
